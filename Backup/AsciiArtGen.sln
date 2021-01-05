@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsciiArtGen", "AsciiArtGen.csproj", "{3B84682B-9818-490A-85B8-8E5C9DFF4901}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{3B84682B-9818-490A-85B8-8E5C9DFF4901}.Debug.ActiveCfg = Debug|.NET
+		{3B84682B-9818-490A-85B8-8E5C9DFF4901}.Debug.Build.0 = Debug|.NET
+		{3B84682B-9818-490A-85B8-8E5C9DFF4901}.Release.ActiveCfg = Release|.NET
+		{3B84682B-9818-490A-85B8-8E5C9DFF4901}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

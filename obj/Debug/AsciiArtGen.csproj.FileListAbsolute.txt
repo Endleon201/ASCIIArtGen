@@ -1,0 +1,12 @@
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\AsciiArtGen.csprojAssemblyReference.cache
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Debug\AsciiArtGen.exe
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Debug\AsciiArtGen.pdb
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Debug\Ascii.dll
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Debug\AsciiArt.dll
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Debug\Ascii.xml
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\Ascii.AsciiArtGen.resources
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\AsciiArtGen.csproj.GenerateResource.cache
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\AsciiArtGen.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\AsciiArtGen.csproj.CopyComplete
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\AsciiArtGen.exe
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Debug\AsciiArtGen.pdb

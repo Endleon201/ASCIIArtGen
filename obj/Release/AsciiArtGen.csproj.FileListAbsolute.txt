@@ -1,0 +1,10 @@
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Release\AsciiArtGen.exe
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Release\Ascii.dll
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Release\AsciiArt.dll
+C:\Users\Julian\Downloads\AsciiArtGenGui\bin\Release\Ascii.xml
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Release\AsciiArtGen.csprojAssemblyReference.cache
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Release\Ascii.AsciiArtGen.resources
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Release\AsciiArtGen.csproj.GenerateResource.cache
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Release\AsciiArtGen.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Release\AsciiArtGen.csproj.CopyComplete
+C:\Users\Julian\Downloads\AsciiArtGenGui\obj\Release\AsciiArtGen.exe
